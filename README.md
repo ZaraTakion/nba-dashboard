@@ -1,9 +1,3 @@
-Aqui vai teu **README.md** completo — já formatado em Markdown, pronto pra colar no GitHub.
-Curto, profissional e com foco no que importa pra recrutador e portfólio.
-
----
-
-````markdown
 # 🏀 NBA Dashboard – Python + Streamlit
 
 Dashboard interativo desenvolvido em **Python** para análise de desempenho de times da NBA (2000–2023).  
@@ -43,6 +37,7 @@ pip install -r requirements.txt
 
 # Executar o dashboard
 streamlit run app/app.py
+
 ````
 
 ---
@@ -56,15 +51,11 @@ Basta conectar o repositório do GitHub e definir o caminho do arquivo principal
 app/app.py
 ```
 
----
-
 ## 📸 Preview
 
 *(Adicione aqui uma captura de tela do dashboard após o deploy)*
 Exemplo:
 ![NBA Dashboard Preview](./screenshot.png)
-
----
 
 ## 🧩 Estrutura do Projeto
 
@@ -82,17 +73,10 @@ nba-dashboard/
 └── .gitignore
 ```
 
----
-
 ## ✨ Autor
 
 **Zara Takion**
 Estudante de Sistemas para Internet • Foco em Dados e Web Design
 📫 [LinkedIn](https://www.linkedin.com) | [GitHub](https://github.com/<seu-usuario>)
 
-```
 
----
-
-Quer que eu te monte também o `requirements.txt` certinho com versões fixadas pra não dar erro no deploy?
-```
