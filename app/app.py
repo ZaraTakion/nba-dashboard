@@ -21,7 +21,9 @@ div[data-testid="stMetricValue"] {color: #38BDF8;}
 # === Carregar dados ===
 @st.cache_data
 def load_data():
-    df = pd.read_csv('nba_clean.csv')
+    import os
+    path = os.path.join(os.path.dirname(__file__), "nba_clean.csv")
+    df = pd.read_csv(path)
     return df
 
 df = load_data()
