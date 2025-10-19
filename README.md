@@ -77,6 +77,7 @@ nba-dashboard/
 
 **Zara Takion**
 Estudante de Sistemas para Internet • Foco em Dados e Web Design
-📫 [LinkedIn](https://www.linkedin.com) | [GitHub](https://github.com/<seu-usuario>)
+[GitHub](https://github.com/ZaraTakion)
+
 
 
