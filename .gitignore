@@ -1,5 +1,15 @@
+# Python environments and caches
+.venv/
 venv/
 __pycache__/
-*.pyc
+*.py[cod]
+.pytest_cache/
+
+# Local Streamlit secrets
+.streamlit/secrets.toml
+
+# Editors and operating systems
 .DS_Store
 *.ipynb_checkpoints
+.vscode/
+.idea/
